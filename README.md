@@ -1,2 +1,2 @@
-# tempProject
+# myColorGenerator
 udemy course learning project
